@@ -13,6 +13,7 @@
 #define BOOST_NEXT_PRIOR_HPP_INCLUDED
 
 #include <iterator>
+#include <algorithm>
 #if defined(_MSC_VER) && _MSC_VER <= 1310
 #include <boost/mpl/and.hpp>
 #include <boost/type_traits/is_integral.hpp>
